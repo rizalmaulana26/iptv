@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,TRANSTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683100&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TRANS7
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683116&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,RCTI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=ts&play_token=wJfTp9js5o
+#EXTINF:28,SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0,GTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,NET
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683093&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,MNCTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ANTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683153&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TV ONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683101&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683152&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,XINGKONG
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683118&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,VISION PRIME
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683124&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CELEBRITIES TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683126&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,MEKKAH TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683102&extension=ts&play_token=wJfTp9js5o
